@@ -89,11 +89,11 @@ teams:
       - cvarjao
       - fc-santos
       - jcdrouin21
+      - KjartanE
       - MacDeluca
       - MosCD3
       - LippaC-OPS
       - thiagoromanos
-      - KjartanE
   - name: bots
     maintainers:
       - ryjones
