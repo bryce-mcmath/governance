@@ -93,6 +93,7 @@ teams:
       - MosCD3
       - LippaC-OPS
       - thiagoromanos
+      - KjartanE
   - name: bots
     maintainers:
       - ryjones
@@ -305,7 +306,7 @@ teams:
       - ryjones
   - name: tac
     maintainers:
-      - aceshim 
+      - aceshim
       - skounis
     members:
       - bryanwche
